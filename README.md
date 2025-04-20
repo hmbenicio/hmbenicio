@@ -33,6 +33,8 @@ Aqui no GitHub, compartilho meus projetos, aprendizados e experimentos práticos
 ## 🛠️ Controle de Versão  
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <br><br>
+
+<br>
 ---
 ## 📊 Estatísticas
 | ![Helbert GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmbenicio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hmbenicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
