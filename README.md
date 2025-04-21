@@ -6,6 +6,10 @@ Profissional em transição para a área de tecnologia, com foco em desenvolvime
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento full stack, com interesse especial em sistemas que conectam chão de fábrica à tomada de decisão estratégica.
 Aqui no GitHub, compartilho meus projetos, aprendizados e experimentos práticos nessa nova jornada.
 
+> A professional transitioning to the technology field, with a focus on software development for industrial management. I have dedicated my studies to tools and solutions that optimize production processes, automate routines, and integrate data efficiently.
+I am currently deepening my knowledge in full stack development, with a special interest in systems that connect the factory floor to strategic decision-making.
+Here on GitHub, I share my projects, learnings, and practical experiments on this new journey.
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hmbenicio/)
 ---
 ## ⚙️ Linguagens e Tecnologias
