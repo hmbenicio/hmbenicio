@@ -2,7 +2,7 @@
 **Seja bem-vindo ao meu perfil!**
 > "Talk is cheap. Show me the code." – Linus Torvalds 💬
 
-Sou um profissional em transição para a área de tecnologia, com foco em desenvolvimento de software voltado à solução de problemas. Tenho direcionado meus estudos para ferramentas e tecnologias que otimizem processos produtivos, automatizem rotinas e integrem dados de forma eficiente.
+Profissional em transição para a área de tecnologia, com foco em desenvolvimento de software voltado à solução de problemas. Tenho direcionado meus estudos para ferramentas e tecnologias que otimizem processos produtivos, automatizem rotinas e integrem dados de forma eficiente.
 Atualmente, estou me aprofundando em desenvolvimento full stack, com interesse especial em sistemas que auxiliem empresas na tomada de decisões estratégicas.
 Aqui no GitHub, compartilho meus projetos, aprendizados e experimentos práticos nessa nova jornada.
 
