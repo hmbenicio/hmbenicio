@@ -2,13 +2,9 @@
 **Seja bem-vindo ao meu perfil!**
 > "Talk is cheap. Show me the code." – Linus Torvalds 💬
 
-<div align="justify">
 Profissional em transição para a área de tecnologia, com foco em desenvolvimento de software voltado à solução de problemas. Tenho direcionado meus estudos para ferramentas e tecnologias que otimizem processos produtivos, automatizem rotinas e integrem dados de forma eficiente. Atualmente, estou me aprofundando em desenvolvimento full stack, com interesse especial em sistemas que auxiliem empresas na tomada de decisões estratégicas. Aqui no GitHub, compartilho meus projetos, aprendizados e experimentos práticos nessa nova jornada.
-</div>
 
----
-> <div align="justify">
-> A professional transitioning into the technology field, with a focus on problem-solving software development. I have focused my studies on tools and technologies that optimize production processes, automate routines, and integrate data efficiently. I am currently delving deeper into full stack development, with a special interest in systems that help companies make strategic decisions. Here on GitHub, I share my projects, learnings, and practical experiments on this new journey. </div>
+> A professional transitioning into the technology field, with a focus on problem-solving software development. I have focused my studies on tools and technologies that optimize production processes, automate routines, and integrate data efficiently. I am currently delving deeper into full stack development, with a special interest in systems that help companies make strategic decisions. Here on GitHub, I share my projects, learnings, and practical experiments on this new journey.
 
 <a href="https://www.linkedin.com/in/hmbenicio/" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" style="width: 30px; height: 30px;" />
