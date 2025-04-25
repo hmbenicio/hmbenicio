@@ -8,7 +8,7 @@ Profissional em transição para a área de tecnologia, com foco em desenvolvime
 
 > <div align="justify">
 A professional transitioning into the technology field, with a focus on problem-solving software development. I have focused my studies on tools and technologies that optimize production processes, automate routines, and integrate data efficiently. I am currently delving deeper into full stack development, with a special interest in systems that help companies make strategic decisions. Here on GitHub, I share my projects, learnings, and practical experiments on this new journey.
-</div>
+</div> >
 
 
 <a href="https://www.linkedin.com/in/hmbenicio/" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none;">
