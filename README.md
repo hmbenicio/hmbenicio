@@ -11,7 +11,7 @@ I am currently deepening my knowledge in full stack development, with a special 
 Here on GitHub, I share my projects, learnings, and practical experiments on this new journey.
 
 <a href="https://www.linkedin.com/in/hmbenicio/" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" style="height: 60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" style="height: 80px;">
 </a>
 
 ---
