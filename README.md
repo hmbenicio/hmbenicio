@@ -3,17 +3,11 @@
 > "Talk is cheap. Show me the code." – Linus Torvalds 💬
 
 <div align="justify">
-
-Profissional em transição para a área de tecnologia, com foco em desenvolvimento de software voltado à solução de problemas. Tenho direcionado meus estudos para ferramentas e tecnologias que otimizem processos produtivos, automatizem rotinas e integrem dados de forma eficiente.  
-Atualmente, estou me aprofundando em desenvolvimento full stack, com interesse especial em sistemas que auxiliem empresas na tomada de decisões estratégicas.  
-Aqui no GitHub, compartilho meus projetos, aprendizados e experimentos práticos nessa nova jornada.
-
+Profissional em transição para a área de tecnologia, com foco em desenvolvimento de software voltado à solução de problemas. Tenho direcionado meus estudos para ferramentas e tecnologias que otimizem processos produtivos, automatizem rotinas e integrem dados de forma eficiente. Atualmente, estou me aprofundando em desenvolvimento full stack, com interesse especial em sistemas que auxiliem empresas na tomada de decisões estratégicas. Aqui no GitHub, compartilho meus projetos, aprendizados e experimentos práticos nessa nova jornada.
 </div>
 
 > <div align="justify">
-> A professional transitioning into the technology field, with a focus on problem-solving software development. I have focused my studies on tools and technologies that optimize production processes, automate routines, and integrate data efficiently.  
-> I am currently delving deeper into full stack development, with a special interest in systems that help companies make strategic decisions.  
-> Here on GitHub, I share my projects, learnings, and practical experiments on this new journey.
+> A professional transitioning into the technology field, with a focus on problem-solving software development. I have focused my studies on tools and technologies that optimize production processes, automate routines, and integrate data efficiently. I am currently delving deeper into full stack development, with a special interest in systems that help companies make strategic decisions. Here on GitHub, I share my projects, learnings, and practical experiments on this new journey.
 > </div>
 
 
