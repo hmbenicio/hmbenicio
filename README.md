@@ -12,8 +12,7 @@ Here on GitHub, I share my projects, learnings, and practical experiments on thi
 
 <a href="https://www.linkedin.com/in/hmbenicio/" target="_blank" style="display: inline-flex; align-items: center; gap: 8px; text-decoration: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Icon" style="width: 30px; height: 30px;" />
-</a> # Linked<span style="color:#0077B5;background-color:#0077B5;color:white;padding:2px 6px;border-radius:3px;">in</span>
-
+</a> # Linked**in**
 
 ---
 ## <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> Linguagens e Tecnologias
