@@ -31,9 +31,7 @@ Profissional em transição para a área de tecnologia, com foco em desenvolvime
 <br/>
 
 ---
+
 ## 📊 Estatísticas
-
-| ![Helbert GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmbenicio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hmbenicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400) |
+| ![Helbert GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmbenicio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hmbenicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
-
-
