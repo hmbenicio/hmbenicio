@@ -31,7 +31,11 @@ Profissional em transição para a área de tecnologia, com foco em desenvolvime
 <br/>
 
 ---
+## Portfólios Privados
 
-## 📊 Estatísticas
-| ![Helbert GitHub Stats](https://github-readme-stats.vercel.app/api?username=hmbenicio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hmbenicio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
-| --- | --- |
+| Projeto             | Descrição                                                                                                                                                                | Linguagem               | Frameworks          | Status                |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ------------------- | --------------------- |
+| **ProdSync**        | Sistema integrado de gestão industrial voltado à sincronização e otimização das operações de fábrica, com foco em eficiência, controle de processos e tomada de decisão. | JavaScript / TypeScript | Next.js / NestJS    | 🚧 Em desenvolvimento |
+| **Nulltriverso**    | Aplicativo mobile com funcionalidades inteligentes para organização, visualização e acompanhamento de informações relacionadas ao universo da Nutrição.                  | JavaScript              | React Native / Expo | 🚧 Em desenvolvimento |
+| **SlotsEngineGame** | Aplicativo mobile que simula o ciclo completo de um jogo casual de caça-níqueis, incluindo depósito, apostas, giros, cálculo de ganhos e saque fictício.                 | JavaScript              | React Native / Expo | 🚧 Em desenvolvimento |
+
