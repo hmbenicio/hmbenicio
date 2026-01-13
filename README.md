@@ -31,7 +31,7 @@ Profissional em transição para a área de tecnologia, com foco em desenvolvime
 <br/>
 
 ---
-🔐 ## Portfólios Privados
+## 🔐 Portfólios Privados
 
 | Projeto             | Descrição                                                                                                                                                                | Linguagem               | Frameworks          | Status                |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ------------------- | --------------------- |
