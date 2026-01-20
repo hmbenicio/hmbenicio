@@ -33,7 +33,8 @@ Profissional em transição para a área de tecnologia, com foco em desenvolvime
 ---
 ## 🔐 Projetos pessoais privados
 
-| Projeto             | Descrição                                                                                                                                                                | Linguagem               | Frameworks          | Status                |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ------------------- | --------------------- |
-| <img alt="ProdSync" src="Assets/Logo_ProdSync.png" width="72" /> | **ProdSync**        | Sistema integrado de gestão industrial voltado à sincronização e otimização das operações de fábrica, com foco em eficiência, controle de processos e tomada de decisão. | JavaScript / TypeScript | Next.js / NestJS    | 🚧 Em desenvolvimento |
-| <img alt="Nulltriverso" src="Assets/Logo_Nulltriverso.png" width="72" /> | **Nulltriverso**    | Aplicativo mobile com funcionalidades inteligentes para organização, visualização e acompanhamento de informações relacionadas ao universo da Nutrição.                  | JavaScript              | React Native / Expo | 🚧 Em desenvolvimento |
+| Logo | Projeto | Descrição | Linguagem | Frameworks | Status |
+|------|---------|-----------|-----------|------------|--------|
+| <img alt="ProdSync" src="Assets/Logo_ProdSync.png" width="120" /> | **ProdSync** | Sistema integrado de gestão industrial voltado à sincronização e otimização das operações de fábrica, com foco em eficiência, controle de processos e tomada de decisão. | JavaScript / TypeScript | Next.js / NestJS | 🚧 Em desenvolvimento |
+| <img alt="Nulltriverso" src="Assets/Logo_Nulltriverso.png" width="120" /> | **Nulltriverso** | Aplicativo mobile com funcionalidades inteligentes para organização, visualização e acompanhamento de informações relacionadas ao universo da Nutrição. | JavaScript | React Native / Expo | 🚧 Em desenvolvimento |
+
