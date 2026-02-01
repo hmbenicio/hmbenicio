@@ -35,6 +35,6 @@ Profissional em transição para a área de tecnologia, com foco em desenvolvime
 
 | Projeto | Descrição | Linguagem | Frameworks | Status |
 |--------|-----------|-----------|------------|--------|
-| <img alt="ProdSync" src="Assets/Logo_ProdSync_3.png" width="240" /> | Sistema integrado de gestão industrial voltado à sincronização e otimização das operações de fábrica, com foco em eficiência, controle de processos e tomada de decisão. | JavaScript / TypeScript | Next.js / NestJS | 🚧 Em desenvolvimento |
+| <img alt="ProdSync" src="Assets/Logo_ProdSync_4.png" width="240" /> | Sistema integrado de gestão industrial voltado à sincronização e otimização das operações de fábrica, com foco em eficiência, controle de processos e tomada de decisão. | JavaScript / TypeScript | Next.js / NestJS | 🚧 Em desenvolvimento |
 | <img alt="Nulltriverso" src="Assets/Logo_Nulltriverso.png" width="240" /> | Aplicativo mobile com funcionalidades inteligentes para organização, visualização e acompanhamento de informações relacionadas ao universo da Nutrição. | JavaScript | React Native / Expo | 🚧 Em desenvolvimento |
 
