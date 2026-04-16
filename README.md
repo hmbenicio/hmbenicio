@@ -1,5 +1,7 @@
 # 💻 Helbert Miranda
+
 **Sejam bem-vindos ao meu perfil!**
+
 > "Talk is cheap. Show me the code." – Linus Torvalds 💬
 
 Profissional em transição para a área de tecnologia, com foco em desenvolvimento de software voltado à solução de problemas. Tenho direcionado meus estudos para ferramentas e tecnologias que otimizem processos produtivos, automatizem rotinas e integrem dados de forma eficiente. Atualmente, estou me aprofundando em desenvolvimento full stack, com interesse especial em sistemas que auxiliem empresas na tomada de decisões estratégicas. Aqui no GitHub, compartilho meus projetos, aprendizados e experimentos práticos nessa nova jornada.
@@ -11,7 +13,9 @@ Profissional em transição para a área de tecnologia, com foco em desenvolvime
 </a>
 
 ---
+
 ## <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> Linguagens e Tecnologias
+
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -31,11 +35,11 @@ Profissional em transição para a área de tecnologia, com foco em desenvolvime
 <br/>
 
 ---
+
 ## 🔐 Projetos privados
 
-| Projeto | Descrição | Linguagem | Frameworks | Status |
-|--------|-----------|-----------|------------|--------|
-| <img alt="ProdSync" src="Assets/Logo_ProdSync_2.png" width="240" /> | Sistema integrado de gestão industrial voltado à sincronização e otimização das operações de fábrica, com foco em eficiência, controle de processos e tomada de decisão. Acesso: https://prodsync.com.br | JavaScript / TypeScript | Next.js / NestJS | 🚧 Em desenvolvimento |
-| <img alt="Nulltriverso" src="Assets/Logo_Nulltriverso.png" width="240" /> | Aplicativo mobile com funcionalidades inteligentes para organização, visualização e acompanhamento de informações relacionadas ao universo da Nutrição. | JavaScript | React Native / Expo | 🚧 Em desenvolvimento |
-| <img alt="Nulltriverso" src="Assets/Logo_NeutroRoad.png" width="240" /> | Sistema integrado de gestão ESG para logística, voltado à mensuração, rastreabilidade e gestão de emissões de GEE, alinhado ao GHG Protocol, com foco na otimização de rotas, organização de inventários e suporte à redução e compensação de carbono ao longo da cadeia logística. | JavaScript / TypeScript | Next.js / NestJS | 🚧 Em desenvolvimento |
-
+| Projeto                                                                   | Descrição                                                                                                                                                                                                                                                                           | Linguagem               | Frameworks          | Status                |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- | ------------------- | --------------------- |
+| <img alt="ProdSync" src="Assets/Logo_ProdSync.png" width="240" />         | Sistema integrado de gestão industrial voltado à sincronização e otimização das operações de fábrica, com foco em eficiência, controle de processos e tomada de decisão. Acesso: https://prodsync.com.br                                                                            | JavaScript / TypeScript | Next.js / NestJS    | 🚧 Em desenvolvimento |
+| <img alt="Nulltriverso" src="Assets/Logo_Nulltriverso.png" width="240" /> | Aplicativo mobile com funcionalidades inteligentes para organização, visualização e acompanhamento de informações relacionadas ao universo da Nutrição.                                                                                                                             | JavaScript              | React Native / Expo | 🚧 Em desenvolvimento |
+| <img alt="Nulltriverso" src="Assets/Logo_NeutroRoad.png" width="240" />   | Sistema integrado de gestão ESG para logística, voltado à mensuração, rastreabilidade e gestão de emissões de GEE, alinhado ao GHG Protocol, com foco na otimização de rotas, organização de inventários e suporte à redução e compensação de carbono ao longo da cadeia logística. | JavaScript / TypeScript | Next.js / NestJS    | 🚧 Em desenvolvimento |
