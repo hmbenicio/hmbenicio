@@ -4,7 +4,7 @@
 
 > "Talk is cheap. Show me the code." – Linus Torvalds 💬
 > 
-> “Talk is cheap. Show me what the AI can build.” – LLMs 🇦🇮 ✨⚛
+> “Talk is cheap. Show me what the AI can build.” – LLMs 🇦🇮 ✨🧠
 
 Desenvolvedor de software com atuação em soluções digitais voltadas à eficiência operacional, automação de processos e inteligência de dados. Minha base profissional no setor produtivo fortalece a construção de sistemas alinhados às necessidades reais do negócio. Trabalho com desenvolvimento full stack, com foco em arquitetura de sistemas, integração de dados e criação de plataformas que apoiem decisões estratégicas e operacionais. Este GitHub reúne projetos, estudos e implementações práticas que refletem minha evolução contínua na área de tecnologia.
 
