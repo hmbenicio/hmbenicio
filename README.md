@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="NeutroRoad" src="Assets/Padrão_escuro.png" width="640"/>
+</p>
+
 # 💻 Helbert Miranda
 
 **Sejam bem-vindos ao meu perfil!**
@@ -45,4 +49,5 @@ Desenvolvedor de software com atuação em soluções digitais voltadas à efici
 | <img alt="ProdSync" src="Assets/Logo_ProdSync.png" width="240" />         | Sistema integrado de gestão industrial voltado à sincronização e otimização das operações de fábrica, com foco em eficiência, controle de processos e tomada de decisão. Acesso: https://prodsync.com.br        | JavaScript / TypeScript          | Next.js / NestJS           | 🚧 Em desenvolvimento |
 | <img alt="Nulltriverso" src="Assets/Logo_Nulltriverso.png" width="240" /> | Aplicativo mobile com funcionalidades inteligentes para organização, visualização e acompanhamento de informações relacionadas ao universo da Nutrição.                                                         | JavaScript                       | React Native / Expo        | 🚧 Em desenvolvimento |
 | <img alt="NeutroRoad" src="Assets/Logo_NeutroRoad.png" width="240" />     | Sistema integrado ESG para logística, focado na mensuração e gestão de emissões de GEE, com rastreabilidade, otimização de rotas e apoio à redução e compensação de carbono, alinhado ao GHG Protocol.          | JavaScript / TypeScript          | Next.js / NestJS           | 🚧 Em desenvolvimento |
+| <img alt="NeutroTrack" src="Assets/Logo_NeutroTrack.png" width="240" />   | Aplicativo mobile de logística sustentável desenvolvido para rastrear operações de transporte, monitorar emissões de GEE, otimizar rotas e fornecer indicadores ESG em tempo real.                              | TypeScript                       | React Native / Expo        | 🚧 Em desenvolvimento |
 | <img alt="Vorqen" src="Assets/Logo_Vorqen.png" width="240" />             | Vorqen é uma plataforma integrada de automação logística, focada na gestão operacional de fretes, prospecção de motoristas, validações, emissão documental e acompanhamento das operações em um único ambiente. | JavaScript / TypeScript / Python | Next.js / NestJS / FastAPI | 🚧 Em desenvolvimento |
