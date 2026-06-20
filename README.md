@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="NeutroRoad" src="Assets/Padrão_escuro.png" width="640"/>
+  <img alt="NeutroRoad" src="Assets/Padrão_escuro.png" width="720"/>
 </p>
 
 # 💻 Helbert Miranda
