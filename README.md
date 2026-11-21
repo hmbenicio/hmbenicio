@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="NeutroRoad" src="Assets/Logo0.png" width="120"/> <img alt="NeutroRoad" src="Assets/Logo0A.png" width="320"/>
+</p>
+
 # 💻 Helbert Miranda
 
 **Sejam bem-vindos ao meu perfil!**
@@ -16,7 +20,7 @@ Desenvolvedor de software com atuação em soluções digitais voltadas à efici
 
 ---
 
-## <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /> Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -40,6 +44,7 @@ Desenvolvedor de software com atuação em soluções digitais voltadas à efici
 
 ## 🔐 Projetos privados
 
+<<<<<<< HEAD
 | Projeto                                                                   | Descrição                                                                                                                                                                                                       | Linguagem                        | Frameworks                 | Status                |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------- | --------------------- |
 | <img alt="ProdSync" src="Assets/Logo_ProdSync.png" width="240" />         | Sistema integrado de gestão industrial voltado à sincronização e otimização das operações de fábrica, com foco em eficiência, controle de processos e tomada de decisão. Acesso: https://prodsync.com.br        | JavaScript / TypeScript          | Next.js / NestJS           | 🚧 Em desenvolvimento |
@@ -47,3 +52,12 @@ Desenvolvedor de software com atuação em soluções digitais voltadas à efici
 | <img alt="Nulltriverso" src="Assets/Logo_Nulltriverso.png" width="240" /> | Aplicativo mobile com funcionalidades inteligentes para organização, visualização e acompanhamento de informações relacionadas ao universo da Nutrição.                                                         | JavaScript                       | React Native / Expo        | 🚧 Em desenvolvimento |
 | <img alt="NeutroRoad" src="Assets/Logo_NeutroRoad.png" width="240" />     | Sistema integrado ESG para logística, focado na mensuração e gestão de emissões de GEE, com rastreabilidade, otimização de rotas e apoio à redução e compensação de carbono, alinhado ao GHG Protocol.          | JavaScript / TypeScript          | Next.js / NestJS           | 🚧 Em desenvolvimento |
 | <img alt="Vorqen" src="Assets/Logo_Vorqen.png" width="240" />             | Vorqen é uma plataforma integrada de automação logística, focada na gestão operacional de fretes, prospecção de motoristas, validações, emissão documental e acompanhamento das operações em um único ambiente. | JavaScript / TypeScript / Python | Next.js / NestJS / FastAPI | 🚧 Em desenvolvimento |
+=======
+| Projeto | Descrição                                                                                                                                                                                                                                     | Linguagem                        | Frameworks                 | Status                |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- | -------------------------- | --------------------- |
+| <img src="Assets/Logo_ProdSync.png" alt="ProdSync" width="120" />     | Sistema integrado de gestão industrial voltado à sincronização e otimização das operações de fábrica, com foco em eficiência, controle de processos e tomada de decisão. Acesso: https://prodsync.com.br                                      | JavaScript / TypeScript          | Next.js / NestJS           | 🚧 Em desenvolvimento |
+| <img src="Assets/Logo_Nulltriverso.png" alt="Nulltriverso" width="120" /> | Aplicativo mobile com funcionalidades inteligentes para organização, visualização e acompanhamento de informações relacionadas ao universo da Nutrição.                                                                                       | JavaScript                       | React Native / Expo        | 🚧 Em desenvolvimento |
+| <img src="Assets/Logo_NeutroRoad.png" alt="NeutroRoad" width="120" />   | Sistema integrado ESG para logística, focado na mensuração e gestão de emissões de GEE, com rastreabilidade, otimização de rotas e apoio à redução e compensação de carbono, alinhado ao GHG Protocol.                                        | JavaScript / TypeScript          | Next.js / NestJS           | 🚧 Em desenvolvimento |
+| <img src="Assets/Logo_NeutroTrack.png" alt="NeutroTrack" width="120" /> | Aplicativo mobile de logística sustentável desenvolvido para rastrear operações de transporte, monitorar emissões de GEE, otimizar rotas e fornecer indicadores ESG em tempo real.                                                            | TypeScript                       | React Native / Expo        | 🚧 Em desenvolvimento |
+| <img src="Assets/Logo_Vorqen.png" alt="Vorqen" width="120" />       | Vorqen é uma plataforma integrada de automação logística, focada na gestão operacional de fretes, prospecção de motoristas, validações, emissão documental e acompanhamento das operações em um único ambiente. Acesso: https://vorqen.com.br | JavaScript / TypeScript / Python | Next.js / NestJS / FastAPI | 🚧 Em desenvolvimento |
+>>>>>>> c39c9897dc3b504c7c04a3ed76baf8ffefb39a44
